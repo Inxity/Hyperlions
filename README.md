@@ -1,1 +1,1 @@
-[![Inxity's github stats](https://github-readme-stats.vercel.app/api?username=Inxity)]
+![Inxity's github stats](https://github-readme-stats.vercel.app/api?username=Inxity)
